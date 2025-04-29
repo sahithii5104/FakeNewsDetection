@@ -26,6 +26,14 @@ The machine learning pipeline involves:
 - TF-IDF Vectorizer
 - Logistic Regression for classification
 
+## 📈 Results
+
+Accuracy: 93%
+
+Precision: 91%
+
+F1-Score: 92%
+
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/yourusername/fake-news-detection.git

@@ -34,6 +34,11 @@ Precision: 91%
 
 F1-Score: 92%
 
+## 📌SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/d1210249-3e44-4f2b-a451-7aebedcb42de)
+
+
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/yourusername/fake-news-detection.git
